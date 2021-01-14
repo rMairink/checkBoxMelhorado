@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
     public void calcular() {
         String valorRecuperado = editValor.getText().toString();
 
-        //TESTANDO FLOAT
+        //Adicionando float
         String valorTotal = textTotal.getText().toString();
         String valorGorjeta = textGorjeta.getText().toString();
 
